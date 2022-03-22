@@ -9,9 +9,8 @@
 
 <p align="justify">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroagra&show_icons=true&count_private=true&theme=algolia" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroagra&layout=compact&theme=algolia" />
+
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroagra&layout=compact&theme=algolia" />
 </p>
 
 
