@@ -2,8 +2,10 @@
 
 
 
-- 🌱 Atualmente estou Granduando em Sistemas de Informação [FUMEC] e aprendendo JavaScript II [Alura]
-- 💻 Objetivo: desenvolvedor back end
+- 🌱 Atualmente estou Granduando em Ciência da Computação [Descomplica] e aprendendo JavaScript II [Alura]
+- 💻 Objetivo 1: desenvolvedor back end
+- 💻 Objetivo 2: ...
+- 💻 Objetivo 3: ...
 
 ##
 
