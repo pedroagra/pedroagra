@@ -2,10 +2,10 @@
 
 
 
-- 🌱 Atualmente estou Granduando em Ciência da Computação [Descomplica] e aprendendo JavaScript II [Alura]
-- 💻 Objetivo 1: desenvolvedor back end
-- 💻 Objetivo 2: ...
-- 💻 Objetivo 3: ...
+- 🌱 Atualmente estou Granduando em Ciência da Computação [Descomplica]  
+- 🌱 Estudando JavaScript II [Alura]
+- 💻 Objetivo: desenvolvedor backend
+
 
 ##
 
