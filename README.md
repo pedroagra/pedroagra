@@ -4,7 +4,7 @@
 
 - 🌱 Atualmente estou Granduando em Ciência da Computação [Descomplica]  
 - 🌱 Estudando CSharp [Alura] 
-- 💻 Objetivo: Desenvolvedor Backend .NET
+- 💻 Desenvolvedor Backend .NET
 
 
 ##
