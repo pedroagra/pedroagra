@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Atualmente estou Granduando em Ciência da Computação [Descomplica]  
+- 🌱 Granduando em Ciência da Computação [Descomplica]  
 - 🌱 Estudando CSharp [Alura] 
 - 💻 Desenvolvedor Backend .NET
 
