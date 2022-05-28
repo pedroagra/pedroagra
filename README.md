@@ -3,8 +3,8 @@
 
 
 - 🌱 Atualmente estou Granduando em Ciência da Computação [Descomplica]  
-- 🌱 Estudando JavaScript II [Alura]
-- 💻 Objetivo: desenvolvedor backend
+- 🌱 Estudando CSharp [Alura] 
+- 💻 Objetivo: Desenvolvedor Backend .NET
 
 
 ##
