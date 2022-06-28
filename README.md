@@ -2,9 +2,9 @@
 
 
 
-- 🌱 Granduando em Ciência da Computação [Descomplica]  
-- 🌱 Estudando CSharp [Alura] 
-- 💻 Desenvolvedor Backend .NET
+- 🌱 Granduando em Ciência da Computação com ênfase em Full Stack Dev [Descomplica Faculdade Digital]  
+- 🌱 Cursos extracurriculares! Dev em <T> [Alura - Cursos Online de Tecnologia] 
+- 💻 Desenvolvedor Jr. | Full Stack
 
 
 ##
