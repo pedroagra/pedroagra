@@ -4,7 +4,7 @@
 
 - 🌱 Granduando em Ciência da Computação com ênfase em Full Stack Dev [Descomplica Faculdade Digital]  
 - 🌱 Cursos extracurriculares! Dev em T [Alura - Cursos Online de Tecnologia] 
-- 💻 Desenvolvedor Jr. | Full Stack
+- 💻 Desenvolvedor | Full Stack | DevSecOps
 
 
 ##
